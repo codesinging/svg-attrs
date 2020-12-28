@@ -1,0 +1,27 @@
+{
+  "name": "svg-attrs",
+  "version": "1.0.0",
+  "description": "Get svg attributes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesinging/svg-attrs.git"
+  },
+  "keywords": [
+    "svg",
+    "attributes",
+    "height",
+    "width",
+    "dimensions"
+  ],
+  "author": "codesinging",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesinging/svg-attrs/issues"
+  },
+  "homepage": "https://github.com/codesinging/svg-attrs#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "xml2js": "^0.4.23"
+  }
+}
